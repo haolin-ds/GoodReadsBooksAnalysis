@@ -18,7 +18,8 @@
 J.K Rowling's Harry Potter Series are dominant winner of popular middle grade books
 with wide readers and good reviews. I found another author Rick Riordan who is unknown
 to me before. In my analysis, he is a author with top one number of published books. Ronald
-Dahl is the third one. 
+Dahl is the third one. The average rating of books of Rick Riordan is even higher than that 
+Ronald Dahl.
 
 After searching for books with both top 25% rating score and top 25% number of rating count, 
 I get a [result](https://drive.google.com/open?id=1f3VGwJ-AwGLiuGS_R3wRNqzuPW4univ8)
@@ -30,3 +31,10 @@ Greek gods and heros for my son recently. This one will be a definitely hit.
 ## Future work
 I will extract reviews of books of Ronald Dahl.  I will use machine learning to build
  a recommendation system to find books with similar contents or style.
+ 
+## Update
+After I borrowed **Percy Jackson's Greek Gods** from library for my son, he felt love with 
+this book. This big and thick book has been drawing all his attention for half a month.  
+During this half month, he don't want to eat dinner. He occasionally burst into big laugh
+ like an fool. Each time, it took me more than five times before I could draw his attention, 
+ which almost drove me mad!! Should I say my good book analysis is successful or NOT? :)
