@@ -22,7 +22,9 @@ Dahl is the third one. The average rating of books of Rick Riordan is even highe
 Ronald Dahl.
 
 After searching for books with both top 25% rating score and top 25% number of rating count, 
-I get a [result](https://drive.google.com/open?id=1f3VGwJ-AwGLiuGS_R3wRNqzuPW4univ8)
+I get the following result:
+ ![](good_books_with_good_review_and_good_review_count.png)
+
 **Percy Jackson's Greek Gods** has lower rating count and review count while pretty good 
 average rating. But the low rating count may be due to the published year is 2014, 
 much later than J.K.Rowling's books. Luckily, I am looking for a good book about 
